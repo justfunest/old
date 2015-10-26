@@ -1,10 +1,10 @@
 <?php
 $config = array(
 	'mysql' => array(
-		'host' => 'db1.localnet',
-		'database' => 'phptest_raudsepp',
-		'user' => 'crbms',
-		'password' => 'verbatim2000'
+		'host' => '',
+		'database' => '',
+		'user' => '',
+		'password' => ''
 	),
 	'pipedrive' => array(
 		'api_url' => 'https://api.pipedrive.com/v1/',
